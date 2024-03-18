@@ -1,1 +1,1 @@
-# licoes-tecnologias-em-ti
+# Exclusivo para lições da matéria de técnogias em TI
